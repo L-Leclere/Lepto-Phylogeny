@@ -18,6 +18,3 @@ Vlfr14-24	Anthohebella parasitica	Hebellidae	22.99	4.60	100 PE	1	37.11	96.81	187
 Vlfr14-27	Aglaopheni octodonta	Aglaopheniidae	30.12	6.02	100 PE	1	40.66	96.29	1774	38.33 %	81284794	90426	88183
 
 Other assembled transcriptome available: Clytia hemisphaerica (genome guided assembly)
-
-
-
