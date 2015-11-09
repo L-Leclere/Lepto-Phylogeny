@@ -1,9 +1,6 @@
-# Lepto-Phylogeny
-
 14 available news transcriptomes:
-Sample	Species	Family	Reads	Bases	Seq	Nb_replicate	GC_rate	Q20_rate	N50_bp	GC%	Total length_bp	Total nb seq	MHNG_INVE_voucher
-
-Ros14-17	Lafoea dumosa	Lafoeidae	28.66	5.73	100 PE  1	41.59	96.52	712	41.96 %	169156076	310600	to do
+Sample	Species	Family	Reads	Bases	Seq	Nb_replicates	GC_rate	Q20_rate	N50_bp	GC%	Total length_bp	Total nb seq	MHNG_INVE_voucher
+Ros14-17	Lafoea dumosa	Lafoeidae	28.66	5.73	100 PE	1	41.59	96.52	712	41.96 %	169156076	310600	to do
 Ros14-21	Halecium beanii	Haleciidae	25.99	5.20	100 PE	1	38.46	96.81	1173	36.82 %	41564119	60223	89696
 Ros14-22	Obelia geniculata	Campanulariidae	31.44	6.29	100 PE	1	39.53	96.82	1745	36.10 %	70558604	75317	to do
 Ros14-23a	Halecium halecinum	Haleciidae	22.50	4.50	100 PE	1	38.01	96.34	1544	36.12 %	56857617	69040	89697
