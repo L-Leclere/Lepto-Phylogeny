@@ -1,5 +1,7 @@
 14 available news transcriptomes:
+
 Sample	Species	Family	Reads	Bases	Seq	Nb_replicates	GC_rate	Q20_rate	N50_bp	GC%	Total length_bp	Total nb seq	MHNG_INVE_voucher
+
 Ros14-17	Lafoea dumosa	Lafoeidae	28.66	5.73	100 PE	1	41.59	96.52	712	41.96 %	169156076	310600	to do
 Ros14-21	Halecium beanii	Haleciidae	25.99	5.20	100 PE	1	38.46	96.81	1173	36.82 %	41564119	60223	89696
 Ros14-22	Obelia geniculata	Campanulariidae	31.44	6.29	100 PE	1	39.53	96.82	1745	36.10 %	70558604	75317	to do
@@ -14,6 +16,7 @@ Vlfr14-03	Laodicea undulata	Laodiceidae	28.91	5.78	100 PE	1	37.28	96.73	1681	33.
 Vlfr14-11	Obelia dichotoma	Campanulariidae	32.65	6.53	100 PE	1	39.98	96.31	1834	36.60 %	64907825	65733	No
 Vlfr14-24	Anthohebella parasitica	Hebellidae	22.99	4.60	100 PE	1	37.11	96.81	1878	33.97 %	83051075	91575	88182
 Vlfr14-27	Aglaopheni octodonta	Aglaopheniidae	30.12	6.02	100 PE	1	40.66	96.29	1774	38.33 %	81284794	90426	88183
+
 
 
 Other assembled transcriptome available: Clytia hemisphaerica (genome guided assembly)
