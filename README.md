@@ -3,9 +3,13 @@
 Sample	Species	Family	Reads	Bases	Seq	Nb_replicates	GC_rate	Q20_rate	N50_bp	GC%	Total length_bp	Total nb seq	MHNG_INVE_voucher
 
 Ros14-17	Lafoea dumosa	Lafoeidae	28.66	5.73	100 PE	1	41.59	96.52	712	41.96 %	169156076	310600	to do
+
 Ros14-21	Halecium beanii	Haleciidae	25.99	5.20	100 PE	1	38.46	96.81	1173	36.82 %	41564119	60223	89696
+
 Ros14-22	Obelia geniculata	Campanulariidae	31.44	6.29	100 PE	1	39.53	96.82	1745	36.10 %	70558604	75317	to do
+
 Ros14-23a	Halecium halecinum	Haleciidae	22.50	4.50	100 PE	1	38.01	96.34	1544	36.12 %	56857617	69040	89697
+
 Ros14-25b	Plumularia setacea	Plumulariidae	28.85	5.77	100 PE	1	39.88	96.55	1849	37.26 %	88897762	94105	to do
 Ros14-27	Campanularia hincksii	Campanulariidae	25.62	5.12	100 PE	1	39.65	96.78	1522	36.81 %	65674970	79475	to do
 Ros14-28a	Hydrallmania falcata	Sertulariidae	28.03	5.61	100 PE	1	40.89	96.19	1768	39.01 %	77111148	85262	89699
